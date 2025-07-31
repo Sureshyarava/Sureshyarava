@@ -32,9 +32,3 @@ I am an enthusiastic Web Developer currently pursuing a Master's degree in Compu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
        alt="spring" width="40" height="40"/>
 </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshyarava&show_icons=true&locale=en&layout=compact" alt="sureshyarava" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshyarava&show_icons=true&locale=en" alt="sureshyarava" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshyarava&" alt="sureshyarava" /></p> -->
