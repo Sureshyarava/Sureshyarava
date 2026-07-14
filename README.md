@@ -10,11 +10,11 @@ __   __  ___  _ __   _      __ _  _     __ _
 |___/ \__,_||_|    \___||___/|_| |_|
 ```
 
-hi, i'm venkata suresh.
+hi, i'm venkata suresh.<br>
 i build software. cs masters, eee undergrad.
 
-right now i'm on ai and web apps.
-before, i wrote cnc milling algorithms and designed pcbs.
+right now i'm on ai and web apps.<br>
+before, i wrote cnc milling algorithms and designed pcbs.<br>
 off the clock: cricket and whatever's interesting.
 
 [linkedin](https://www.linkedin.com/in/yaravavenkatasuresh/)
