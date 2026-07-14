@@ -8,13 +8,12 @@ __   __  ___  _ __   _      __ _  _     __ _
 / __|| | | || '__| / _ \/ __|| |__ 
 \__ \| |_| || |   |  __/\__ \| '_ \
 |___/ \__,_||_|    \___||___/|_| |_|
-```
 
-hi, i'm venkata suresh.<br>
+hi, i'm venkata suresh.
 i build software. cs masters, eee undergrad.
 
-right now i'm on ai and web apps.<br>
-before, i wrote cnc milling algorithms and designed pcbs.<br>
+right now i'm on ai and web apps.
+before, i wrote cnc milling algorithms and designed pcbs.
 off the clock: cricket and whatever's interesting.
 
-[linkedin](https://www.linkedin.com/in/yaravavenkatasuresh/)
+```
